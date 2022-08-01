@@ -1,5 +1,5 @@
 ###### Nama: Fari' Affrizal S.
-###### Kelas: RPL
+###### Kelas: RPL 1
 ###### No.Absen: 25
 ## Modul 1
 ### Mengenal dan Instalasi Laravel
